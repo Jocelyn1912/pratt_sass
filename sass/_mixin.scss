@@ -1,0 +1,6 @@
+/* Código reutilizable*/
+@mixin excel() {
+  color: $color_text_p;
+  text-aling: $text_center;
+  line-height: 30px;
+}
